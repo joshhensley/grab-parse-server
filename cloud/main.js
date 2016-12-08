@@ -1,6 +1,6 @@
 //require('./cloud/layer.js');
-require('./cloud/user.js');
-require('./cloud/friendship.js');
-require('./cloud/grab.js');
-require('./cloud/collection.js');
-require('./cloud/group.js');
+require('./user.js');
+require('./friendship.js');
+require('./grab.js');
+require('./collection.js');
+require('./group.js');

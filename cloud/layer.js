@@ -1,5 +1,5 @@
 var fs = require('fs');
-var layer = require('./cloud/layer-parse-module/layer-module.js');
+var layer = require('./layer-parse-module/layer-module.js');
 
 var layerProviderID = 'layer:///providers/23a81966-2b61-11e5-9145-42902a00338c';
 var layerKeyID = 'layer:///keys/df28d270-2b61-11e5-8f12-42902a004538';
