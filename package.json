@@ -16,8 +16,7 @@
     "parse-image": "0.2.0"
   },
   "scripts": {
-    "start": "node index.js",
-    "postinstall": "npm update"
+    "start": "node index.js"
   },
   "engines": {
     "node": ">=4.3"

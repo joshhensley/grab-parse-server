@@ -27,7 +27,6 @@ Parse.Cloud.beforeSave("_User", function(request, response) {
 });
 
 function createPhotoResizePromise(user, size) {
-    var Image = require("parse-image");
     // We want to return the promise.
     return Parse.Cloud.httpRequest({
         url: user.get("photoOriginal").url()
