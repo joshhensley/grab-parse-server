@@ -13,7 +13,7 @@
     "kerberos": "~0.0.x",
     "parse": "~1.8.0",
     "parse-server": "*",
-    "parse-image"
+    "parse-image": "0.2.0"
   },
   "scripts": {
     "start": "node index.js"
