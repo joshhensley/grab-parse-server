@@ -1,4 +1,4 @@
-require('./cloud/layer.js');
+//require('./cloud/layer.js');
 require('./cloud/user.js');
 require('./cloud/friendship.js');
 require('./cloud/grab.js');
